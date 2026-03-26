@@ -1,1 +1,2 @@
-# Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle---AitorH
+# Pràctica Tema 4 - Instal·lació i Configuració de Moodle - AitorH
+
