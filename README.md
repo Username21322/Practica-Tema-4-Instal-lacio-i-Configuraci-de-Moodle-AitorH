@@ -1,11 +1,25 @@
 # Pràctica Tema 4 - Instal·lació i Configuració de Moodle - AitorH
 
-## 1. Administració del perfil d'usuari**
-- Canvieu la vostra direcció de correu electrònic i contrasenya.
-- Afegiu un avatar al vostre perfil:
-  - Accediu a **Perfil > Editar** o bé a **Preferències**.
+## 1. Administració del perfil d'usuari
+### 1.1 <ins>Canviar direcció de correu electrònic i contrasenya.</ins>
+ - Accediu a **"Perfil"** o **"Profile"**
+ 
+![T4](imagen/im1.png)
 
-## 2. Configuració del lloc**
+ - Accediu a **"Editar Perfil"** o **"Edit Profile"**
+ 
+![T4](imagen/im3.png)
+
+ - Canvieu la vostra contraseña o correu als apartats:
+   - **"New Password"** o **"Nova Contraseña"**
+   - **"Email Address"** o **"Direcció de Email"**
+
+![T4](imagen/im2.png)
+
+### 1.2 <ins>Afegiu un avatar al vostre perfil.</ins>
+
+
+## 2. Configuració del lloc
 - Canvieu el nom del lloc (tant llarg com curt) i feu que la pàgina principal no mostri contingut per als usuaris no autenticats:
   - Anar a **Administració del lloc > Primera plana > Paràmetres**.
 - Configureu la franja horària correcta:
@@ -17,5 +31,3 @@
 - Establiu una política de contrasenyes robusta:
   - Anar a **Administració del lloc > Seguretat > Normatives del lloc**.
   - Configureu una longitud mínima de 8 caràcters, incloent majúscules, minúscules i números.
-
-
