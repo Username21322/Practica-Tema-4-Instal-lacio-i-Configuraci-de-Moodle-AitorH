@@ -20,6 +20,7 @@
 
  - En el mateix apartat de **"Editar Perfil"** o **"Edit Profile"**, neu a la part baixa, on posa **"User Picture"** o **"Imatge d'Usuari"**. Clickeu al "+" per afegir la vostre imatge que voleu que us representi.
 
+![T4](imagen/im4.png)
 
 ## 2. Configuració del lloc
 - Canvieu el nom del lloc (tant llarg com curt) i feu que la pàgina principal no mostri contingut per als usuaris no autenticats:
