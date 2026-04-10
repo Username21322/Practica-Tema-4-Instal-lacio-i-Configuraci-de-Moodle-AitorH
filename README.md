@@ -25,9 +25,13 @@
 ## 2. Configuració del lloc
 - Canvia el nom del lloc (tant llarg com curt) i feu que la pàgina principal no mostri contingut per als usuaris no autenticats:
   - Accediu a **"Administració del lloc"** o **"Site administrator"**
+
+![T4](imagen/im6.png)
+    
   - A la part baixa en l'apartat **"Site Home"** o **"Pàgina d'inici del lloc"**
   - Accediu a **"Paràmetres de la pàgina d'inici"** o **"Site home settings"**
 
+![T4](imagen/im5.png)
 
 
 
