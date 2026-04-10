@@ -16,7 +16,7 @@
 
 ![T4](imagen/im2.png)
 
-### 1.2 <ins>Afegiu un avatar al vostre perfil.</ins>
+### 1.2 <ins>Afegir un avatar al vostre perfil.</ins>
 
 
 ## 2. Configuració del lloc
