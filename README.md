@@ -23,6 +23,7 @@
 ![T4](imagen/im4.png)
 
 ## 2. Configuració del lloc
+### 2.1 <ins>Canviar el nom del teu moodle</ins>
 - Canvia el nom del lloc (tant llarg com curt) i feu que la pàgina principal no mostri contingut per als usuaris no autenticats:
   - Accediu a **"Administració del lloc"** o **"Site administrator"**
 
@@ -33,7 +34,9 @@
 
 ![T4](imagen/im5.png)
 
-  - En aquesta part, pots editar el teu lloc i canviar el nom 
+  - En aquesta part, pots editar el teu lloc i canviar el nom
+     
+### 2.2 <ins>Canviar els permisos del teu moodle</ins>
 
 ![T4](imagen/im7.png)
 
