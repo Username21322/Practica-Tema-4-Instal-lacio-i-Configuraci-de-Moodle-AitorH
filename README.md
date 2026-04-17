@@ -36,9 +36,9 @@
 
   - En aquesta part, pots editar el teu lloc i canviar el nom
      
-### 2.2 <ins>Canviar els permisos del teu moodle</ins>
-
 ![T4](imagen/im7.png)
+
+### 2.2 <ins>Canviar els permisos del teu moodle</ins>
 
   - Més abaix, s'editan els permisos, aqui caig canviar el primer que posava en **"Site Home"** a **"None"**, aixó per a que les comptes que no estiguesin registrades al curs, no poguin veure els cursos de la meva página de moodle.
      
