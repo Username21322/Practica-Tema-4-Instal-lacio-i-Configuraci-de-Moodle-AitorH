@@ -33,7 +33,13 @@
 
 ![T4](imagen/im5.png)
 
+  - En aquesta part, pots editar el teu lloc i canviar el nom 
 
+![T4](imagen/im7.png)
+
+  - Més abaix, s'editan els permisos, aqui caig canviar el primer que posava en **"Site Home"** a **"None"**, aixó per a que les comptes que no estiguesin registrades al curs, no poguin veure els cursos de la meva página de moodle.
+     
+![T4](imagen/im8.png)
 
 
   - > Primera plana > Paràmetres**.
