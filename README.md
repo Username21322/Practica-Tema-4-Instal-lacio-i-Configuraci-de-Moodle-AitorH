@@ -44,14 +44,94 @@
      
 ![T4](imagen/im8.png)
 
+### 2.3 <ins>Canviar l'ubicació del teu moodle</ins>
+  - Accediu a **"Administració del lloc"** o **"Site administrator"**
+  - Accediu a **"Paràmetres de ubicació** o **"Location settings"**
+   imagen 9
 
-  - > Primera plana > Paràmetres**.
-- Configureu la franja horària correcta:
-  - Anar a **Administració del lloc > Ubicació > Paràmetres**.
-  - **Nota:** Aquesta configuració és crucial per a les entregues d'exercicis amb hores límit.
-- Canvieu l'idioma del lloc:
-  - Anar a **Administració del lloc > Idioma > Paràmetres**.
-  - Instal·leu paquets d'idioma si cal des de **Administració del lloc > Idioma > Paquets d'idioma**.
-- Establiu una política de contrasenyes robusta:
-  - Anar a **Administració del lloc > Seguretat > Normatives del lloc**.
-  - Configureu una longitud mínima de 8 caràcters, incloent majúscules, minúscules i números.
+  - Canvia elm temps de la zona a el teu lloc a **"Default timezone"**
+
+imagen 10
+### 2.4 <ins>Canviar l'idioma del teu moodle</ins>
+  - Accediu a **"Administració del lloc"** o **"Site administrator"**
+  - Accediu a **"Paràmetres de idioma** o **"Language settings"**
+imagen 11
+  - Canvia l'idioma del teu lloc a **"Default language"** o **"Idioma Predeterminat"**
+
+   imagen 12
+### 2.5 <ins>Canviar la normativa del teu moodle</ins>
+  - Accediu a **"Administració del lloc"** o **"Site administrator"**
+  - Accediu a **"Paràmetres del Seguretat** o **"Site Security settings"**
+  - imagen 13
+  - Més abaix podeu canviar els parámetres de la contraseña per entrar l teu nlloc
+  - imagen 14
+
+## 3. Creació de cursos
+
+### 3.1 Crear el curs A (3 temes)  
+
+Ves a la página d'inici, ves a **"Els meus cursos"** o **"My courses"**
+   - Donali a **"Afegeix curs"** o **"Create new course"**  
+   ![Create new course](images/create-new-course.png)
+
+Configuració del lloc :
+   - **Nom complet del curs / Course full name:** `A`
+   - **Nom curt / Course short name:** `A`
+   - **Format del curs / Course format:** `Format per temes / Topics format`
+   - **Nombre de seccions / Number of sections:** `3`
+
+Clica **Desa i visualitza / Save and display**.
+
+
+### 3.2 Crear el curs B (5 temes)
+
+2. Canvia:
+   - **Nom complet / Full name:** `B`
+   - **Nombre de seccions / Sections:** `5`
+3. Desa.
+
+
+### 3.3 Personalització dels cursos / Course Customization
+
+#### 3.3.1 Activar mode edició / Turn editing on
+
+1. Entra al curs.
+2. Clica:  
+   **Activa edició / Turn editing on**  
+   ![Turn editing on](images/turn-editing-on.png)
+
+#### 3.3.2 Afegir un PDF / Add a PDF file
+
+1. Amb edició activada.
+2. Clica:  
+   **Afegeix una activitat o recurs / Add an activity or resource**
+3. Tria:  
+   **Fitxer / File**  
+   ![Add file](images/add-file-resource.png)
+4. Posa un nom i puja el PDF.
+5. Desa.
+
+#### 3.3.3 Canviar títol d’un tema / Rename a topic
+
+1. Clica **Edita / Edit** al costat del títol.
+2. Tria **Edita secció / Edit topic**.  
+   ![Edit topic](images/edit-topic.png)
+3. Canvia el nom.
+4. Desa.
+
+
+## 4. Usuaris / Users
+
+### 4.1 Crear usuari manual (Bob)  
+
+1. Ves a:  
+   **Administració del lloc → Usuaris → Comptes → Afegeix un usuari**  
+   **Site administration → Users → Accounts → Add a new user**  
+   ![Add user](images/add-new-user.png)
+
+2. Omple:
+   - **Nom d’usuari / Username:** `bob`
+   - **Nom / First name:** Bob
+   - **Autenticació / Authentication:** Manual
+
+3. 
