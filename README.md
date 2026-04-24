@@ -47,22 +47,27 @@
 ### 2.3 <ins>Canviar l'ubicació del teu moodle</ins>
   - Accediu a **"Administració del lloc"** o **"Site administrator"**
   - Accediu a **"Paràmetres de ubicació** o **"Location settings"**
-   imagen 9
+
+![T4](imagen/im9.png)
 
   - Canvia elm temps de la zona a el teu lloc a **"Default timezone"**
 
-imagen 10
+![T4](imagen/im10.png)
+
 ### 2.4 <ins>Canviar l'idioma del teu moodle</ins>
   - Accediu a **"Administració del lloc"** o **"Site administrator"**
   - Accediu a **"Paràmetres de idioma** o **"Language settings"**
-imagen 11
+    
+![T4](imagen/im11.png)
+
   - Canvia l'idioma del teu lloc a **"Default language"** o **"Idioma Predeterminat"**
 
-   imagen 12
+![T4](imagen/im12.png)
+
 ### 2.5 <ins>Canviar la normativa del teu moodle</ins>
   - Accediu a **"Administració del lloc"** o **"Site administrator"**
   - Accediu a **"Paràmetres del Seguretat** o **"Site Security settings"**
-  - imagen 13
+    
   - Més abaix podeu canviar els parámetres de la contraseña per entrar l teu nlloc
   - imagen 14
 
