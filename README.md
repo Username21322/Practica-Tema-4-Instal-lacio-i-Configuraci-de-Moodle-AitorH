@@ -170,11 +170,14 @@ Clica **Desa i visualitza / Save and display**.
    **Participants**  
 ![T4](imagen/im16.png)
 3.  Ves a:  
-   **Enrolled users** i ves a **"Enrolment methods"**
-4. Edita els Accesos amb el ull, fes-ho tot visible  
+   **Enrol users**, a la part baixa i ves a **"Enrolment methods"**
+4. Edita el acces de Bob, a **"Teacher"** o **"Professor"**
+
 ![T4](imagen/im17.png)
 
----
+5. Edita el acces de els alumnes restants, a **"Student"** o **"Estudiant"**
+
+![T4](imagen/im18.png)
 
 ### 5.2 Verificació / Verification
 
@@ -184,7 +187,6 @@ Clica **Desa i visualitza / Save and display**.
 - **Curs B** → requereix iniciar sessió.  
   **Course B** → requires login.
 
----
 
 ## 6. Personalització del lloc
 
