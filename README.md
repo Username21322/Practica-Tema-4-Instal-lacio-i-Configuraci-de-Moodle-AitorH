@@ -187,6 +187,7 @@ Clica **Desa i visualitza / Save and display**.
 - **Curs B** → requereix iniciar sessió.  
   **Course B** → requires login.
 
+![T4](imagen/im19.png)
 
 ## 6. Personalització del lloc
 
