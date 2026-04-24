@@ -143,52 +143,36 @@ Clica **Desa i visualitza / Save and display**.
 
 ## 5. Matriculació d’usuaris / User Enrolment
 
-### 5.1 Configuració de mètodes d’inscripció / Configure Enrolment Methods
+### 5.1 Configuració de mètodes d’inscripció
 
-#### 5.1.1 Curs A – Accés públic / Course A – Public Access
+#### 5.1.1 Curs A – Accés públic
 
-1. Entra al curs A.  
-   **Enter Course A.**
-
-2. Ves a:  
-   **Administració del curs → Usuaris → Mètodes d’inscripció**  
-   **Course administration → Users → Enrolment methods**  
-   ![Enrolment methods](images/enrolment-methods.png)
-
-3. Desactiva tots els mètodes d’inscripció.  
-   **Disable all enrolment methods.**
-
-4. Ves a:  
-   **Edita configuració / Edit settings**
-
-5. A l’apartat **Accés de convidats / Guest access**, activa:  
-   **Permet accés de convidats / Allow guest access**
-
-6. Desa els canvis.  
-   **Save changes.**
-
----
-
-#### 5.1.2 Curs B – Inscripció manual / Course B – Manual Enrolment
-
-1. Entra al curs B.  
-   **Enter Course B.**
+1. Entra al curs A i activa el mode Editor
 
 2. Ves a:  
-   **Mètodes d’inscripció / Enrolment methods**
+   **Participants**  
+![T4](imagen/im13.png)
 
-3. Activa:  
-   **Inscripció manual / Manual enrolments**
+4.  Ves a:  
+   **Enrolled users** i ves a **"Enrolment methods"**
+    
+![T4](imagen/im14.png)
 
-4. Ves a:  
-   **Usuaris inscrits / Enrolled users**  
-   ![Enrolled users](images/enrolled-users.png)
+5. Edita els Accesos amb el ull, fes-ho tot visible
+     
+![T4](imagen/im15.png)
 
-5. Clica **Inscriu usuaris / Enrol users**
+#### 5.1.2 Curs B – Inscripció manual
 
-6. Assigna rols:  
-   - **Bob → Professor / Teacher**  
-   - **Alumnes → Estudiant / Student**
+1. Entra al curs B i activa el mode Editor
+
+2. Ves a:  
+   **Participants**  
+![T4](imagen/im16.png)
+3.  Ves a:  
+   **Enrolled users** i ves a **"Enrolment methods"**
+4. Edita els Accesos amb el ull, fes-ho tot visible  
+![T4](imagen/im17.png)
 
 ---
 
@@ -202,14 +186,14 @@ Clica **Desa i visualitza / Save and display**.
 
 ---
 
-## 6. Personalització del lloc / Site Customization
+## 6. Personalització del lloc
 
-### 6.1 Instal·lar un tema / Install a Theme
+### 6.1 Instal·lar un tema
 
 1. Ves a:  
    **Administració del lloc → Connectors → Instal·lar complement**  
    **Site administration → Plugins → Install plugins**  
-   ![Install plugins](images/install-plugins.png)
+
 
 2. Pujar el fitxer ZIP del tema.  
    **Upload the theme ZIP.**
