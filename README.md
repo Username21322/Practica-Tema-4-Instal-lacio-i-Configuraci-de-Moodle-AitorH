@@ -378,16 +378,17 @@ Clica **Desa i visualitza / Save and display**.
 
 # 10. Importació i exportació de cursos / Course Import & Export
 
-## Exportar còpia de seguretat / Export Backup
-
 1. Ves a:  
    **Administració del curs → Còpia de seguretat**  
-   **Course administration → Backup**
+   **site administration → Backup**
+   
+   <img width="448" height="662" alt="image" src="https://github.com/user-attachments/assets/8ad3f3c2-aeb9-4168-84ec-07e6ea3bf2fe" />
 
-2. Segueix l’assistent.  
+
+3. Segueix l’assistent.  
    **Follow the wizard.**
 
-3. Descarrega el fitxer.  
+4. Descarrega el fitxer.  
    **Download the file.**
 
 ---
@@ -395,11 +396,12 @@ Clica **Desa i visualitza / Save and display**.
 ## Importar curs / Import Course
 
 1. Ves a:  
-   **Administració del curs → Restaura**  
-   **Course administration → Restore**
+   **Administració del curs → Cursos**  
+   **Course administration → Courses**
+<img width="446" height="297" alt="image" src="https://github.com/user-attachments/assets/963cea65-1d22-4c99-8349-25bc261fb03f" />
 
-2. Pujar el fitxer del company.  
-   **Upload colleague’s file.**
+2. Pujar el fitxer del company a **"Upload Curses"**.  
+<img width="842" height="388" alt="image" src="https://github.com/user-attachments/assets/f309c912-efdd-444c-881d-a06fb3db2aa2" />
 
 3. Segueix l’assistent.  
    **Follow the wizard.**
@@ -413,9 +415,10 @@ Clica **Desa i visualitza / Save and display**.
 1. Ves a:  
    **Administració del lloc → Seguretat → Bloqueig IP**  
    **Site administration → Security → IP blocker**
+<img width="321" height="115" alt="image" src="https://github.com/user-attachments/assets/7f6caf0d-137d-4e5e-9241-b2ffb920c156" />
 
-2. Afegeix la IP a la llista negra.  
-   **Add the IP to the blacklist.**
+2. Afegeix la IP a la **"llista negra"** o **"blacklist"**.
+   - En aquest cas he escollit   
 
 ---
 
@@ -423,9 +426,16 @@ Clica **Desa i visualitza / Save and display**.
 
 1. Ves a:  
    **Seguretat → Polítiques del lloc**  
-   **Security → Site policies**
+   **Security → Site Security settings**
+<img width="341" height="116" alt="image" src="https://github.com/user-attachments/assets/23940db1-b3ff-4863-bba4-d359fc4fc14a" />
 
 2. Activa:  
-   - Contrasenyes fortes / Strong passwords  
-   - Temps de sessió / Session timeout  
+   - Comprovador de contraseñes / Check password on login 
+   <img width="762" height="99" alt="image" src="https://github.com/user-attachments/assets/a839dc2c-96aa-487f-a3db-125cef54dc47" />
+
+   - Temps de sessió / Session timeout
+     <img width="767" height="150" alt="image" src="https://github.com/user-attachments/assets/2f3ecf69-b692-49c5-aca6-e06300d7b018" />
+
    - Bloqueig d’intents fallits / Failed login lockout  
+   <img width="733" height="85" alt="image" src="https://github.com/user-attachments/assets/7da32a4f-24ec-41ec-96c7-bbc28f4b7a95" />
+
